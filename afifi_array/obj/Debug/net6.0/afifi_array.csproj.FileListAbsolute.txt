@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.AssemblyInfo.cs
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\afifi_array\afifi_array\bin\Debug\net6.0\afifi_array.exe
+C:\Users\HP\source\repos\afifi_array\afifi_array\bin\Debug\net6.0\afifi_array.deps.json
+C:\Users\HP\source\repos\afifi_array\afifi_array\bin\Debug\net6.0\afifi_array.runtimeconfig.json
+C:\Users\HP\source\repos\afifi_array\afifi_array\bin\Debug\net6.0\afifi_array.dll
+C:\Users\HP\source\repos\afifi_array\afifi_array\bin\Debug\net6.0\afifi_array.pdb
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.dll
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\refint\afifi_array.dll
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.pdb
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\afifi_array.genruntimeconfig.cache
+C:\Users\HP\source\repos\afifi_array\afifi_array\obj\Debug\net6.0\ref\afifi_array.dll
